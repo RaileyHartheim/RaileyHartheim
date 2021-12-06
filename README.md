@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaileyHartheim
 - 👀 I'm interested in learning new stuff, pop science, photography and drawing.
-- 🌱 I’m currently learning C# and relational databases, but I used to learn Python. 
+- 🌱 I’m currently learning Python and relational databases, but I used to learn C# (a little bit and I hope to change it later). 
 - 💞️ At the monent I feel that I don't have enough knowledge to collaborate with someone on the project, but I will be glad to do it later when I gain experience!
 - 📫 How to reach me - melancholia.raiven@gmail.com
 
