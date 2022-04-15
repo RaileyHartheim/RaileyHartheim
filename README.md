@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @RaileyHartheim
-- 👀 I'm interested in learning new stuff, pop science, photography and drawing.
-- 🌱 I’m currently learning Python and relational databases, but I used to learn C# (a little bit and I hope to change it later). 
-- 💞️ At the monent I feel that I don't have enough knowledge to collaborate with someone on the project, but I will be glad to do it later when I gain experience!
-- 📫 How to reach me - melancholia.raiven@gmail.com
+Hi, I’m @RaileyHartheim
+
+
+I'm using...
+- 🟣 Python
+- 🟣 Django
+- 🟣 HTML5
+- 🟣 CSS
+- 🟣 Flask
+- 🟣 C#
+
+
+My projects:
+- 🟣 [Morrowind Class Quiz (Flask)](https://mwclassquiz.pythonanywhere.com)
+- 🟣 [Yatube blog platform (Django)](https://yetanotherblogplatform.pythonanywhere.com)
+
+
+<p align="center">How to find me: </p>
+
+<p align="center">
+  <a href= "https://github.com/RaileyHartheim/">
+    <img src="https://img.icons8.com/nolan/64/github.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/yuliakazhaeva/">
+    <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
+  </a>
+  <a href= "https://t.me/it_slytherin">
+    <img src="https://img.icons8.com/nolan/64/telegram-app.png"/>
+  </a>
+  <a href= "mailto:kazhaeva.yu@gmail.com">
+    <img src="https://img.icons8.com/nolan/64/gmail-new.png"/>
+  </a>
+</p>
 
 <!---
 RaileyHartheim/RaileyHartheim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
