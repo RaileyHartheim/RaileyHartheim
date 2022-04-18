@@ -18,9 +18,6 @@ My projects:
 <p align="center">How to find me: </p>
 
 <p align="center">
-  <a href= "https://github.com/RaileyHartheim/">
-    <img src="https://img.icons8.com/nolan/64/github.png"/>
-  </a>
   <a href= "https://www.linkedin.com/in/yuliakazhaeva/">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
   </a>
