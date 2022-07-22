@@ -21,7 +21,7 @@ My projects:
   <a href= "https://www.linkedin.com/in/yuliakazhaeva/">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
   </a>
-  <a href= "https://t.me/it_slytherin">
+  <a href= "https://t.me/hartheim">
     <img src="https://img.icons8.com/nolan/64/telegram-app.png"/>
   </a>
   <a href= "mailto:kazhaeva.yu@gmail.com">
