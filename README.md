@@ -4,8 +4,8 @@ Hi, I’m @RaileyHartheim
 I'm using...
 - 🟣 Python
 - 🟣 Django
+- 🟣 Bootstrap
 - 🟣 HTML5
-- 🟣 CSS
 - 🟣 Flask
 - 🟣 C#
 
