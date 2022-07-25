@@ -3,14 +3,14 @@ Hi, I’m @RaileyHartheim
 
 I'm using...
 - 🟣 Python
-- 🟣 Django
+- 🟣 Django/Django REST Framework
 - 🟣 Bootstrap
 - 🟣 HTML5
 - 🟣 Flask
 - 🟣 C#
 
 
-My projects:
+My deployed projects:
 - 🟣 [Morrowind Class Quiz (Flask)](https://mwclassquiz.pythonanywhere.com)
 - 🟣 [Yatube blog platform (Django)](https://yetanotherblogplatform.pythonanywhere.com)
 
