@@ -13,7 +13,6 @@ I'm using...
 My deployed projects:
 - 🟣 [Morrowind Class Quiz (Flask)](https://mwclassquiz.pythonanywhere.com)
 - 🟣 [Yatube blog platform (Django)](https://yetanotherblogplatform.pythonanywhere.com)
-- 🟣 [Foodgram (Django + React)](http://158.160.4.128/recipes)
 
 
 <p align="center">How to find me: </p>
