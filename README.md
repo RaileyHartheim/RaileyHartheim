@@ -4,10 +4,9 @@ Hi, I’m @RaileyHartheim
 I'm using...
 - 🟣 Python
 - 🟣 Django/Django REST Framework
+- 🟣 Flask
 - 🟣 Bootstrap
 - 🟣 HTML5
-- 🟣 Flask
-- 🟣 C#
 
 
 My deployed projects:
