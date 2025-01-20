@@ -9,11 +9,6 @@ I'm using...
 - 🟣 HTML5
 
 
-My deployed projects:
-- 🟣 [Morrowind Class Quiz (Flask)](https://mwclassquiz.pythonanywhere.com)
-- 🟣 [Yatube blog platform (Django)](https://yetanotherblogplatform.pythonanywhere.com)
-
-
 <p align="center">How to find me: </p>
 
 <p align="center">
